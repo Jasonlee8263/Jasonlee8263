@@ -5,12 +5,11 @@
   <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jonghyuk+Lee" alt="Typing SVG" /></a>
   <!-- My CV/resume -->
-<div align="left">
+<div align="center">
 Hi! 🤗 My name is Jonghyuk Lee.<br>
 - 💻 Full stack software engineer<br>
 - 🏫 Computer Science Student at Brigham Young University
 </div>
-  <br><br>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
